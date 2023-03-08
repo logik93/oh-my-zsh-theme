@@ -1,2 +1,3 @@
 # oh my zsh theme by rkj edited by logik
-few date/time format changes + add prompt sign >
+https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme
+few date/time format changes + add prompt sign ">".
