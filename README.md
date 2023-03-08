@@ -1,5 +1,5 @@
 # oh my zsh theme "rkj.zsh-theme" edited by Logik
-Minimalist theme with time, date and retcode, based on the rkj theme.
+Minimalist (one-liner) theme with time, date and retcode, based on the rkj theme.
 Original:
 https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme
 
