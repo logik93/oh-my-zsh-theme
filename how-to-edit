@@ -1,0 +1,45 @@
+%{\e[0;34m%} - Sets the text color to dark blue.
+%B - Enables bold text.
+┌─[ - Displays a box with a horizontal line and a left corner.
+%b - Disables bold text.
+%{\e[0m%} - Resets the text formatting to the default.
+%{\e[1;32m%} - Sets the text color to bright green.
+%n - Displays the username of the current user.
+%{\e[1;30m%} - Sets the text color to dark grey.
+%{\e[0;37m%} - Sets the text color to light grey.
+@ - Displays the "@" character.
+%m - Displays the hostname of the system.
+%{\e[0;36m%} - Sets the text color to cyan.
+] - Displays the "]" character.
+%{\e[0m%} - Resets the text formatting to the default.
+- - Displays a hyphen.
+%b - Enables bold text.
+[ - Displays a "[" character.
+%{\e[1;37m%} - Sets the text color to bright white.
+~ - Displays the current working directory relative to the user's home directory.
+%{\e[0;34m%} - Sets the text color to dark blue.
+%B - Enables bold text.
+] - Displays a "]" character.
+%b - Disables bold text.
+%{\e[0m%} - Resets the text formatting to the default.
+- - Displays a hyphen.
+%{\e[0;34m%} - Sets the text color to dark blue.
+%B - Enables bold text.
+[ - Displays a "[" character.
+%{\e[0;33m%} - Sets the text color to yellow.
+%D{"%I:%M:%S %d.%m.%Y"} - Displays the current date and time in the format "HH:MM:SS DD.MM.YYYY".
+%b - Disables bold text.
+%{\e[0m%} - Resets the text formatting to the default.
+\n - Inserts a newline character.
+%{\e[0;34m%} - Sets the text color to dark blue.
+%B - Enables bold text.
+└─[ - Displays a box with a horizontal line and a left corner.
+%{\e[1;35m%} - Sets the text color to bright magenta.
+%?$(retcode)% - Displays the return code of the last command executed.
+%{\e[0;34m%} - Sets the text color to dark blue.
+%B - Enables bold text.
+] - Displays a "]" character.
+%{\e[0m%} - Resets the text formatting to the default.
+%b - Disables bold text.
+%{\e[1;37m%} - Sets the text color to bright white.
+> - Displays the ">" character as a prompt for input.
