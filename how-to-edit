@@ -44,4 +44,4 @@
 %{\e[1;37m%} - Sets the text color to bright white.
 > - Displays the ">" character as a prompt for input.
 
-More about coloring and formating You can find here: https://misc.flogisoft.com/bash/tip_colors_and_formatting
+More about colors and formatting You can find here: https://misc.flogisoft.com/bash/tip_colors_and_formatting
