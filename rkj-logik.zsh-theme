@@ -20,4 +20,3 @@ PROMPT=$'%{\e[0;34m%}%B┌─[%b%{\e[0m%}%{\e[1;32m%}%n%{\e[1;30m%}%{\e[0;37m%}@
 # %b             - turns on bold formatting
 # %{\e[1;37m%}>   - sets the prompt symbol to a greater-than sign and sets the color to white
 # %{\e[0m%}      - resets the color to default
-
