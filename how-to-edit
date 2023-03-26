@@ -27,7 +27,7 @@
 %B - Enables bold text.
 [ - Displays a "[" character.
 %{\e[0;33m%} - Sets the text color to yellow.
-%D{"%I:%M:%S %d.%m.%Y"} - Displays the current date and time in the format "HH:MM:SS DD.MM.YYYY".
+%D{"%H:%M:%S %d.%m.%Y"} - Displays the current date and time in the format "HH:MM:SS DD.MM.YYYY".
 %b - Disables bold text.
 %{\e[0m%} - Resets the text formatting to the default.
 \n - Inserts a newline character.
