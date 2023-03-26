@@ -5,7 +5,6 @@
 %{\e[0m%} - Resets the text formatting to the default.
 %{\e[1;32m%} - Sets the text color to bright green.
 %n - Displays the username of the current user.
-%{\e[1;30m%} - Sets the text color to dark grey.
 %{\e[0;37m%} - Sets the text color to light grey.
 @ - Displays the "@" character.
 %m - Displays the hostname of the system.
